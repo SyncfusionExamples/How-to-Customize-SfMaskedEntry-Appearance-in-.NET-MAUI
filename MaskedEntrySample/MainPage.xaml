@@ -8,16 +8,14 @@
         <VerticalStackLayout
            Padding="20" Spacing="30" HorizontalOptions="Start">
 
-        <editors:SfMaskedEntry
-        HorizontalOptions="Start"
-        WidthRequest="250"
-        Mask="00/00/0000"
-        Placeholder="Enter Date"
-        Background="#F5F5F5"
-        TextColor="Navy"
-        FontSize="18"
-        HeightRequest="50" />
-
+       
+            <editors:SfMaskedEntry
+                WidthRequest="200"
+                Mask="0000"
+                TextColor="Blue"
+                FontSize="18"
+                FontAttributes="Bold"
+                FontFamily="Arial" />
         </VerticalStackLayout>
     </ScrollView>
 
