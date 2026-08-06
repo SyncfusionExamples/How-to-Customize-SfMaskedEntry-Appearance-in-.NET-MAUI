@@ -7,8 +7,7 @@
     <ScrollView>
         <VerticalStackLayout
            Padding="20" Spacing="30" HorizontalOptions="Start">
-
-       
+                      
             <editors:SfMaskedEntry
                 WidthRequest="200"
                 Mask="0000"
@@ -16,6 +15,7 @@
                 FontSize="18"
                 FontAttributes="Bold"
                 FontFamily="Arial" />
+            
         </VerticalStackLayout>
     </ScrollView>
 
