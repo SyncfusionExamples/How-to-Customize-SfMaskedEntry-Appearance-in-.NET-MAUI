@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\KBs\\MaskedEntrySample\\",
+  "WorkspaceRootPath": "D:\\MaskedSample1\\CustomizeEntry\\How-to-Customize-SfMaskedEntry-Appearance-in-.NET-MAUI\\MaskedEntrySample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{820FC41F-626A-445D-05BF-C9A71F0B36E4}|MaskedEntrySample.csproj|d:\\kbs\\maskedentrysample\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{820FC41F-626A-445D-05BF-C9A71F0B36E4}|MaskedEntrySample.csproj|d:\\maskedsample1\\customizeentry\\how-to-customize-sfmaskedentry-appearance-in-.net-maui\\maskedentrysample\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{820FC41F-626A-445D-05BF-C9A71F0B36E4}|MaskedEntrySample.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{820FC41F-626A-445D-05BF-C9A71F0B36E4}|MaskedEntrySample.csproj|d:\\kbs\\maskedentrysample\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{820FC41F-626A-445D-05BF-C9A71F0B36E4}|MaskedEntrySample.csproj|d:\\maskedsample1\\customizeentry\\how-to-customize-sfmaskedentry-appearance-in-.net-maui\\maskedentrysample\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{820FC41F-626A-445D-05BF-C9A71F0B36E4}|MaskedEntrySample.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{820FC41F-626A-445D-05BF-C9A71F0B36E4}|MaskedEntrySample.csproj|d:\\kbs\\maskedentrysample\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{820FC41F-626A-445D-05BF-C9A71F0B36E4}|MaskedEntrySample.csproj|d:\\maskedsample1\\customizeentry\\how-to-customize-sfmaskedentry-appearance-in-.net-maui\\maskedentrysample\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{820FC41F-626A-445D-05BF-C9A71F0B36E4}|MaskedEntrySample.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{820FC41F-626A-445D-05BF-C9A71F0B36E4}|MaskedEntrySample.csproj|d:\\kbs\\maskedentrysample\\maskedentrysample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{820FC41F-626A-445D-05BF-C9A71F0B36E4}|MaskedEntrySample.csproj|d:\\maskedsample1\\customizeentry\\how-to-customize-sfmaskedentry-appearance-in-.net-maui\\maskedentrysample\\maskedentrysample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{820FC41F-626A-445D-05BF-C9A71F0B36E4}|MaskedEntrySample.csproj|solutionrelative:maskedentrysample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -32,22 +32,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "D:\\KBs\\MaskedEntrySample\\MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\MaskedSample1\\CustomizeEntry\\How-to-Customize-SfMaskedEntry-Appearance-in-.NET-MAUI\\MaskedEntrySample\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "MainPage.xaml.cs",
-              "ToolTip": "D:\\KBs\\MaskedEntrySample\\MainPage.xaml.cs",
+              "ToolTip": "D:\\MaskedSample1\\CustomizeEntry\\How-to-Customize-SfMaskedEntry-Appearance-in-.NET-MAUI\\MaskedEntrySample\\MainPage.xaml.cs",
               "RelativeToolTip": "MainPage.xaml.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA4AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-24T10:11:27.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-24T10:11:27.53Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MaskedEntrySample.csproj",
-              "DocumentMoniker": "D:\\KBs\\MaskedEntrySample\\MaskedEntrySample.csproj",
+              "DocumentMoniker": "D:\\MaskedSample1\\CustomizeEntry\\How-to-Customize-SfMaskedEntry-Appearance-in-.NET-MAUI\\MaskedEntrySample\\MaskedEntrySample.csproj",
               "RelativeDocumentMoniker": "MaskedEntrySample.csproj",
-              "ToolTip": "D:\\KBs\\MaskedEntrySample\\MaskedEntrySample.csproj",
+              "ToolTip": "D:\\MaskedSample1\\CustomizeEntry\\How-to-Customize-SfMaskedEntry-Appearance-in-.NET-MAUI\\MaskedEntrySample\\MaskedEntrySample.csproj",
               "RelativeToolTip": "MaskedEntrySample.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -57,9 +56,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MauiProgram.cs",
-              "DocumentMoniker": "D:\\KBs\\MaskedEntrySample\\MauiProgram.cs",
+              "DocumentMoniker": "D:\\MaskedSample1\\CustomizeEntry\\How-to-Customize-SfMaskedEntry-Appearance-in-.NET-MAUI\\MaskedEntrySample\\MauiProgram.cs",
               "RelativeDocumentMoniker": "MauiProgram.cs",
-              "ToolTip": "D:\\KBs\\MaskedEntrySample\\MauiProgram.cs",
+              "ToolTip": "D:\\MaskedSample1\\CustomizeEntry\\How-to-Customize-SfMaskedEntry-Appearance-in-.NET-MAUI\\MaskedEntrySample\\MauiProgram.cs",
               "RelativeToolTip": "MauiProgram.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -69,11 +68,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainPage.xaml",
-              "DocumentMoniker": "D:\\KBs\\MaskedEntrySample\\MainPage.xaml",
+              "DocumentMoniker": "D:\\MaskedSample1\\CustomizeEntry\\How-to-Customize-SfMaskedEntry-Appearance-in-.NET-MAUI\\MaskedEntrySample\\MainPage.xaml",
               "RelativeDocumentMoniker": "MainPage.xaml",
-              "ToolTip": "D:\\KBs\\MaskedEntrySample\\MainPage.xaml",
+              "ToolTip": "D:\\MaskedSample1\\CustomizeEntry\\How-to-Customize-SfMaskedEntry-Appearance-in-.NET-MAUI\\MaskedEntrySample\\MainPage.xaml",
               "RelativeToolTip": "MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-07-24T10:02:52.712Z",
               "EditorCaption": ""
